@@ -17,5 +17,6 @@ int x,y,i;
 		arc(x,y,0,180,i-10);
 	}
 	capture("C:\\TC\\Capture\\Capture1.jpg");
+	printf("\n This is the new change");
 getch();
 }
